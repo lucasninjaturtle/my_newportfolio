@@ -31,7 +31,7 @@ Technologies used = [React Native, NodeJs, Express, TypeScript, Redux, React Nav
 
 Click the image to acces the project video 🌐       
 
-[![Watch the video](https://res.cloudinary.com/byplants/image/upload/c_thumb,w_200,g_face/v1617311392/byplantsmedia/Henryapp_Foto_tcvaa7.png)](https://youtu.be/F5ExSpyWMoo)
+[![Watch the video](https://res.cloudinary.com/byplants/image/upload/c_thumb,w_200,g_face/v1617319061/byplantsmedia/Henryapp_Foto_hxrpku.jpg)](https://youtu.be/F5ExSpyWMoo)
 
 
 

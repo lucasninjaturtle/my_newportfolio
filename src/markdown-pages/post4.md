@@ -38,4 +38,4 @@ Project Objetives
 - Use and practice external API conection.
 
 Click the image to acces the site 🍏                                                   
-[![button](https://res.cloudinary.com/byplants/image/upload/c_thumb,w_200,g_face/v1613508452/byplantsmedia/byplants_ylsv15.png)](https://byplantas-lucasninjaturtle.vercel.app/)
+[![button](https://res.cloudinary.com/byplants/image/upload/c_thumb,w_200,g_face/v1617319068/byplantsmedia/byplants_uzr2sf.jpg)](https://byplantas-lucasninjaturtle.vercel.app/)
