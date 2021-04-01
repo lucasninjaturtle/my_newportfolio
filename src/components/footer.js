@@ -23,6 +23,7 @@ const FooterWrap = styled.footer`
   display: flex;
   align-items: center;
   background-color: #000026;
+  
 `
 
 const FooterContent = styled.div`
