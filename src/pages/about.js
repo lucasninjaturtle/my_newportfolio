@@ -63,6 +63,8 @@ const About = ({ data }) => (
         <AboutHeader>
           <h2>Hi!/Hola!</h2>
           <span>My name is Lucas</span>
+          </AboutHeader>
+          <br></br>
           <StyledLink href='https://github.com/lucasninjaturtle' target="_blank" rel="noopener noreferrer">
                 <LinkIcon icon={faGithub}/>
               
@@ -70,10 +72,16 @@ const About = ({ data }) => (
               <StyledLink href='https://www.linkedin.com/in/laguero/' target="_blank" rel="noopener noreferrer">
                 
                 <LinkIcon icon={faLinkedin}/>
+                
               </StyledLink>
-        </AboutHeader>
+        
         <MyStyledImage id="my-photo" fluid={data.file.childImageSharp.fluid} />
-        <p>I'm a Full stack developer. Before I became a programmer I've worked for over 10 years on implementation projects and maintenance on ERP systems as functional/technical consultant and Team Leader. I changed my rol because I feel very passionate about technology, developing and solving problems with it.</p>
+        <br></br>
+        <br></br>
+        <p>I'm a Full stack developer.</p>
+        <p>Before I became a programmer I've worked for over 10 years on implementation projects </p>
+        <p>and maintenance on ERP systems as functional/technical consultant and Team Leader. </p>
+        <p>I changed my rol because I feel very passionate about technology, developing and solving problems with it.</p>
         
       </div>
       
