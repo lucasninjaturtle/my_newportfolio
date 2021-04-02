@@ -2,7 +2,7 @@
 title: 'Henry App'
 author: 'Me'
 date: '📲📰'
-image: 'post33'
+image: 'post3'
 ---
 
 ## [PERN] React Native Henry App 📱 / Web Admin App 📰

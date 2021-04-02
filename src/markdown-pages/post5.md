@@ -37,5 +37,6 @@ The main features:
 - Expo
 - Android Studio
 
+<img src="https://res.cloudinary.com/byplants/image/upload/v1617044805/byplantsmedia/with_changes_pick_ecommerce_wc7xcj.gif"></img>
 
 
