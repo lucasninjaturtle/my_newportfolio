@@ -36,6 +36,7 @@ The main features:
 - Native Base
 - Expo
 - Android Studio
+<br></br>
 
 <img src="https://res.cloudinary.com/byplants/image/upload/c_crop,h_496,w_353,x_200,y_0/v1617044805/byplantsmedia/with_changes_pick_ecommerce_wc7xcj.gif"></img>
 

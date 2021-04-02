@@ -36,6 +36,7 @@ Project Objetives
 - Team work
 - Use and practice testing.
 - Use and practice external API conection.
+<br></br>
 
 Click the image to acces the site 🍏                                                   
 [![button](https://res.cloudinary.com/byplants/image/upload/c_thumb,w_200,g_face/v1617319068/byplantsmedia/byplants_uzr2sf.jpg)](https://byplantas-lucasninjaturtle.vercel.app/)
