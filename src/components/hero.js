@@ -30,7 +30,11 @@ const Hero = () => (
         <Heading>Lucas Aguero</Heading>
       </Parallax>
       <Parallax y={[-480, 480]}>
-        <TagLine>Full Stack Developer - React Native enthusiast 📱</TagLine>
+        <TagLine>Full Stack Developer</TagLine>
+        {/* <TagLine>React Native enthusiast 📱</TagLine> */}
+      </Parallax>
+      <Parallax y={[-480, 480]}>
+        <TagLine>React Native enthusiast 📱</TagLine>
       </Parallax>
     </div>
   </HeroWrapper>
