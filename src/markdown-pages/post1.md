@@ -1,22 +1,35 @@
 ---
-title: 'My First Ecommerce'
+title: 'React native CLI'
 author: 'Me'
-date: '📰'
+date: '📲'
 image: 'post1'
 ---
 
-## [Vanilla JS] Todo Nelly shoes Ecommerce store
-
-This is my first web App, on wich I made my first steps on Javascript, I practiced the next technical concepts:
 
 
 
-&#128196; JavaScript
-&#128211; JQuery
-&#128211; LocalStorage
-&#128296; HTML     
-                                                                                                     
+
+## [React Native CLI] - PokeApp 📱 
+
+The main features:
+
+- Styling
+- Custom Hooks
+- Functional components
+- Search with deboucer
+- Redux State management
+- Infinite Scroll
+
+ Technologies used:
+- React Native CLI
+- Android Studio
+- XCode
+- Redux
+- Context API
+- React Navigation
+- Styled Components
 <br></br>
 
-Click the image to acces the site 👠                                                              
-[![button](https://res.cloudinary.com/byplants/image/upload/c_thumb,w_200,g_face/v1613696011/byplantsmedia/rsz_todo_nelly_logo_l9yq3x.jpg)](https://lucasninjaturtle.github.io/todo_nelly/?)
+<img src="https://res.cloudinary.com/byplants/image/upload/v1619207309/byplantsmedia/Untitled_nw9bem.gif"></img>
+
+
