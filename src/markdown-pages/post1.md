@@ -24,10 +24,7 @@ The main features:
 - React Native CLI
 - Android Studio
 - XCode
-- Redux
-- Context API
 - React Navigation
-- Styled Components
 <br></br>
 
 <img src="https://res.cloudinary.com/byplants/image/upload/v1619207309/byplantsmedia/Untitled_nw9bem.gif"></img>
