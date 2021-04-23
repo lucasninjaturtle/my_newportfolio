@@ -20,7 +20,9 @@ The main features:
 - Redux State management
 - Infinite Scroll
 
- Technologies used:
+  Technologies used:
+
+- TypeScript
 - React Native CLI
 - Android Studio
 - XCode
