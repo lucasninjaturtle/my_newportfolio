@@ -19,9 +19,9 @@ The main features:
 - Search with deboucer
 - Redux State management
 - Infinite Scroll
-
+<br>
   Technologies used:
-
+<br>
 - TypeScript
 - React Native CLI
 - Android Studio
